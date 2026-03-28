@@ -18,8 +18,11 @@ Analisar o posicionamento estratégico da empresa e propor melhorias utilizando 
 
 ## Estrutura do repositório
 /referencias-FATEC → Referências de modelo de PI
+
 /referencias-bibliograficas → Artigos utilizados na pesquisa
+
 /Templates → Templates de PI
+
 /Semiotica PI → Conteúdo Semiótica
 
 ## Status do projeto
