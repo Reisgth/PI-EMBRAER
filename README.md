@@ -17,10 +17,10 @@ Analisar o posicionamento estratégico da empresa e propor melhorias utilizando 
 - Paulo Alexandre Camargo Silva
 
 ## Estrutura do repositório
-/docs → Relatório do projeto  
-/data → Dados coletados  
-/analysis → Análises realizadas  
-/slides → Apresentação final
+/referencias-FATEC → Referências de modelo de PI
+/referencias-bibliograficas → Artigos utilizados na pesquisa
+/Templates → Templates de PI
+/Semiotica PI → Conteúdo Semiótica
 
 ## Status do projeto
 Projeto em desenvolvimento – pesquisa de histórico da empresa.
